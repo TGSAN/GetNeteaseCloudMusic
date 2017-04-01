@@ -24,4 +24,4 @@ $ python 163.py "https://music.163.com/#/song?id=441116341"
 
 ### LICENSE
 
-https://github.com/TGSAN/GetNeteaseCloudMusic/LICENSE
+https://github.com/TGSAN/GetNeteaseCloudMusic/blob/master/LICENSE
